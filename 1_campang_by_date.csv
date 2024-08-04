@@ -1,120 +1,120 @@
 year,month,cmpgn,impressions,clicks,cost,conversions,CPC,CPA
-2021,1,Branded,1439,80,88.42,0.0,1.11,0.0
-2021,1,Non Branded Funnel,2546,57,130.06,0.0,2.28,0.0
-2021,1,Non Branded HubSpot,2150,115,274.32,11.0,2.39,24.94
-2021,2,Branded,1228,77,89.23,1.0,1.16,89.23
-2021,2,Non Branded HubSpot,1451,29,174.29,0.0,6.01,0.0
-2021,3,Branded,1825,69,94.55,0.0,1.37,0.0
-2021,3,Non Branded HubSpot,1052,39,209.72,6.0,5.38,34.95
-2021,4,Branded,1381,86,90.6,0.0,1.05,0.0
-2021,4,Non Branded HubSpot,1503,53,246.76,8.0,4.66,30.84
-2021,5,Branded,1837,119,104.08,0.0,0.87,0.0
-2021,5,Non Branded HubSpot,1230,60,274.59,8.0,4.58,34.32
-2021,6,Acquisition Impact,120,3,8.67,0.0,2.89,0.0
-2021,6,Branded,1330,63,74.01,0.0,1.17,0.0
+2021,1,Branded,1439,80,88.42,0.0,0.9,0.0
+2021,1,Non Branded Funnel,2546,57,130.06,0.0,0.44,0.0
+2021,1,Non Branded HubSpot,2150,115,274.32,11.0,0.42,24.94
+2021,2,Branded,1228,77,89.23,1.0,0.86,89.23
+2021,2,Non Branded HubSpot,1451,29,174.29,0.0,0.17,0.0
+2021,3,Branded,1825,69,94.55,0.0,0.73,0.0
+2021,3,Non Branded HubSpot,1052,39,209.72,6.0,0.19,34.95
+2021,4,Branded,1381,86,90.6,0.0,0.95,0.0
+2021,4,Non Branded HubSpot,1503,53,246.76,8.0,0.21,30.84
+2021,5,Branded,1837,119,104.08,0.0,1.14,0.0
+2021,5,Non Branded HubSpot,1230,60,274.59,8.0,0.22,34.32
+2021,6,Acquisition Impact,120,3,8.67,0.0,0.35,0.0
+2021,6,Branded,1330,63,74.01,0.0,0.85,0.0
 2021,6,Intelligence Playbook,214,0,0.0,0.0,0.0,0.0
-2021,6,Non Branded Applied Marketing,612,14,17.59,0.0,1.26,0.0
-2021,6,Non Branded Conversion Strategy,26,3,15.04,0.0,5.01,0.0
-2021,6,Non Branded HubSpot,1268,41,200.79,3.0,4.9,66.93
-2021,6,SME Consideration,203,10,15.32,2.0,1.53,7.66
-2021,6,Social Responsibility,199,4,7.66,0.0,1.92,0.0
-2021,7,Acquisition Impact,2265,29,107.54,7.0,3.71,15.36
-2021,7,Branded,582,34,41.03,0.0,1.21,0.0
-2021,7,Intelligence Playbook,1704,52,140.98,0.0,2.71,0.0
-2021,7,Non Branded Applied Marketing,3678,83,122.73,0.0,1.48,0.0
-2021,7,Non Branded Conversion Strategy,724,32,90.41,0.0,2.83,0.0
-2021,7,SME Consideration,980,128,97.09,1.0,0.76,97.09
-2021,7,Social Responsibility,996,30,55.29,0.0,1.84,0.0
-2021,8,Acquisition Impact,1022,29,67.13,0.0,2.31,0.0
-2021,8,Branded,976,63,101.53,0.0,1.61,0.0
-2021,8,Branded - Max Conv.,67,3,4.4,0.0,1.47,0.0
-2021,8,Bringing Back - Max Conv.,624,6,12.6,0.0,2.1,0.0
-2021,8,Customer Playbook - Max Conv.,251,1,1.86,0.0,1.86,0.0
-2021,8,Intelligence Playbook,1082,22,59.07,0.0,2.68,0.0
+2021,6,Non Branded Applied Marketing,612,14,17.59,0.0,0.8,0.0
+2021,6,Non Branded Conversion Strategy,26,3,15.04,0.0,0.2,0.0
+2021,6,Non Branded HubSpot,1268,41,200.79,3.0,0.2,66.93
+2021,6,SME Consideration,203,10,15.32,2.0,0.65,7.66
+2021,6,Social Responsibility,199,4,7.66,0.0,0.52,0.0
+2021,7,Acquisition Impact,2265,29,107.54,7.0,0.27,15.36
+2021,7,Branded,582,34,41.03,0.0,0.83,0.0
+2021,7,Intelligence Playbook,1704,52,140.98,0.0,0.37,0.0
+2021,7,Non Branded Applied Marketing,3678,83,122.73,0.0,0.68,0.0
+2021,7,Non Branded Conversion Strategy,724,32,90.41,0.0,0.35,0.0
+2021,7,SME Consideration,980,128,97.09,1.0,1.32,97.09
+2021,7,Social Responsibility,996,30,55.29,0.0,0.54,0.0
+2021,8,Acquisition Impact,1022,29,67.13,0.0,0.43,0.0
+2021,8,Branded,976,63,101.53,0.0,0.62,0.0
+2021,8,Branded - Max Conv.,67,3,4.4,0.0,0.68,0.0
+2021,8,Bringing Back - Max Conv.,624,6,12.6,0.0,0.48,0.0
+2021,8,Customer Playbook - Max Conv.,251,1,1.86,0.0,0.54,0.0
+2021,8,Intelligence Playbook,1082,22,59.07,0.0,0.37,0.0
 2021,8,Non Branded - Max Conv.,1,0,0.0,0.0,0.0,0.0
-2021,8,Non Branded Applied Marketing,2063,49,69.95,0.0,1.43,0.0
-2021,8,Non Branded Conversion Strategy,623,16,36.21,0.0,2.26,0.0
-2021,8,SME - Max Conv.,153,6,13.38,1.0,2.23,13.38
-2021,8,SME Consideration,1230,236,141.21,3.0,0.6,47.07
-2021,8,Social Responsibility,710,12,26.12,0.0,2.18,0.0
-2021,8,Social Responsibility - Max Conv.,139,2,8.87,0.0,4.44,0.0
+2021,8,Non Branded Applied Marketing,2063,49,69.95,0.0,0.7,0.0
+2021,8,Non Branded Conversion Strategy,623,16,36.21,0.0,0.44,0.0
+2021,8,SME - Max Conv.,153,6,13.38,1.0,0.45,13.38
+2021,8,SME Consideration,1230,236,141.21,3.0,1.67,47.07
+2021,8,Social Responsibility,710,12,26.12,0.0,0.46,0.0
+2021,8,Social Responsibility - Max Conv.,139,2,8.87,0.0,0.23,0.0
 2021,8,Support - Max Conv.,364,0,0.0,0.0,0.0,0.0
-2021,9,Acquisition Impact,1850,38,97.36,0.0,2.56,0.0
-2021,9,Branded,2344,133,241.81,0.0,1.82,0.0
-2021,9,Branded - Max Conv.,78,4,8.73,0.0,2.18,0.0
-2021,9,Bringing Back - Max Conv.,196,3,10.69,0.0,3.56,0.0
-2021,9,Customer Playbook - Max Conv.,121,3,10.18,0.0,3.39,0.0
-2021,9,Intelligence Playbook,911,37,75.4,0.0,2.04,0.0
-2021,9,Non Branded - Max Conv.,22,2,2.36,0.0,1.18,0.0
-2021,9,Non Branded Applied Marketing,2496,83,108.06,0.0,1.3,0.0
-2021,9,Non Branded Conversion Strategy,825,32,83.34,0.0,2.6,0.0
-2021,9,SME - Max Conv.,210,17,31.11,0.0,1.83,0.0
-2021,9,SME Consideration,1375,139,200.76,5.5,1.44,36.5
-2021,9,Social Responsibility,526,8,13.48,0.0,1.68,0.0
-2021,9,Social Responsibility - Max Conv.,121,2,6.35,0.0,3.18,0.0
-2021,9,Support - Max Conv.,349,1,4.26,0.0,4.26,0.0
-2021,10,Acquisition Impact,2000,63,136.98,0.0,2.17,0.0
-2021,10,Branded,2558,227,332.66,9.0,1.47,36.96
-2021,10,Intelligence Playbook,1066,45,85.0,0.0,1.89,0.0
-2021,10,Non Branded Applied Marketing,3187,125,144.96,0.0,1.16,0.0
-2021,10,Non Branded Conversion Strategy,1072,36,78.71,0.0,2.19,0.0
-2021,10,SME Consideration,4361,723,843.88,54.5,1.17,15.48
-2021,10,Social Responsibility,768,33,47.35,0.0,1.43,0.0
-2021,11,Acquisition Impact,1657,34,85.15,3.0,2.5,28.38
-2021,11,Branded,2657,226,368.38,8.0,1.63,46.05
-2021,11,Intelligence Playbook,956,32,69.08,1.0,2.16,69.08
-2021,11,Non Branded Applied Marketing,2685,123,148.22,1.0,1.21,148.22
-2021,11,Non Branded Conversion Strategy,934,45,89.18,0.0,1.98,0.0
-2021,11,SME Consideration,2687,394,627.75,37.0,1.59,16.97
-2021,11,Social Responsibility,867,35,60.1,0.0,1.72,0.0
-2021,12,Acquisition Impact,960,23,70.36,4.0,3.06,17.59
-2021,12,Branded,1191,95,321.43,7.4,3.38,43.44
-2021,12,Intelligence Playbook,1452,16,56.71,0.0,3.54,0.0
-2021,12,Non Branded Applied Marketing,1869,45,123.75,6.0,2.75,20.62
-2021,12,Non Branded Conversion Strategy,796,9,24.24,0.0,2.69,0.0
-2021,12,SME Consideration,3515,310,620.77,39.5,2.0,15.72
-2021,12,Social Responsibility,447,18,49.5,0.7,2.75,70.71
-2022,1,Acquisition Impact,911,10,54.64,3.0,5.46,18.21
-2022,1,Branded,1474,92,243.93,6.0,2.65,40.66
-2022,1,HubSpot App - Non-Branded,174,9,14.96,3.0,1.66,4.99
-2022,1,Intelligence Playbook,1231,26,71.03,0.0,2.73,0.0
-2022,1,Non Branded Applied Marketing,4189,74,161.49,14.0,2.18,11.54
-2022,1,Non Branded Conversion Strategy,316,5,27.46,1.0,5.49,27.46
-2022,1,Non Branded HubSpot,144,4,28.45,0.0,7.11,0.0
-2022,1,SME Consideration,8678,285,670.89,38.5,2.35,17.43
-2022,1,Social Responsibility,245,9,13.91,0.0,1.55,0.0
-2022,2,Branded,1832,104,422.95,4.0,4.07,105.74
-2022,2,HubSpot App - Non-Branded,551,27,52.73,3.0,1.95,17.58
-2022,2,Non Branded Applied Marketing,9954,159,517.7,5.0,3.26,103.54
-2022,2,Non Branded HubSpot,1402,36,170.86,2.0,4.75,85.43
-2022,3,Branded,1093,43,296.86,0.0,6.9,0.0
-2022,3,Non Branded Applied Marketing,6034,94,418.71,6.0,4.45,69.78
-2022,3,Non Branded HubSpot,1113,57,186.19,4.0,3.27,46.55
-2022,4,Branded,24,6,2.93,0.0,0.49,0.0
-2022,4,Non Branded Applied Marketing,4474,93,508.57,8.0,5.47,63.57
-2022,4,Non Branded HubSpot,1023,56,217.83,12.6,3.89,17.29
-2022,5,Awareness/Engagement,327,18,31.31,0.0,1.74,0.0
-2022,5,Branded,38,10,1.7,0.0,0.17,0.0
-2022,5,Cloud Report,968,37,85.34,30.0,2.31,2.84
-2022,5,Consideration,365,3,40.12,0.0,13.37,0.0
-2022,5,Non Branded Applied Marketing,3091,85,594.57,15.0,6.99,39.64
-2022,5,Non Branded HubSpot,56,9,25.29,1.0,2.81,25.29
+2021,9,Acquisition Impact,1850,38,97.36,0.0,0.39,0.0
+2021,9,Branded,2344,133,241.81,0.0,0.55,0.0
+2021,9,Branded - Max Conv.,78,4,8.73,0.0,0.46,0.0
+2021,9,Bringing Back - Max Conv.,196,3,10.69,0.0,0.28,0.0
+2021,9,Customer Playbook - Max Conv.,121,3,10.18,0.0,0.29,0.0
+2021,9,Intelligence Playbook,911,37,75.4,0.0,0.49,0.0
+2021,9,Non Branded - Max Conv.,22,2,2.36,0.0,0.85,0.0
+2021,9,Non Branded Applied Marketing,2496,83,108.06,0.0,0.77,0.0
+2021,9,Non Branded Conversion Strategy,825,32,83.34,0.0,0.38,0.0
+2021,9,SME - Max Conv.,210,17,31.11,0.0,0.55,0.0
+2021,9,SME Consideration,1375,139,200.76,5.5,0.69,36.5
+2021,9,Social Responsibility,526,8,13.48,0.0,0.59,0.0
+2021,9,Social Responsibility - Max Conv.,121,2,6.35,0.0,0.31,0.0
+2021,9,Support - Max Conv.,349,1,4.26,0.0,0.23,0.0
+2021,10,Acquisition Impact,2000,63,136.98,0.0,0.46,0.0
+2021,10,Branded,2558,227,332.66,9.0,0.68,36.96
+2021,10,Intelligence Playbook,1066,45,85.0,0.0,0.53,0.0
+2021,10,Non Branded Applied Marketing,3187,125,144.96,0.0,0.86,0.0
+2021,10,Non Branded Conversion Strategy,1072,36,78.71,0.0,0.46,0.0
+2021,10,SME Consideration,4361,723,843.88,54.5,0.86,15.48
+2021,10,Social Responsibility,768,33,47.35,0.0,0.7,0.0
+2021,11,Acquisition Impact,1657,34,85.15,3.0,0.4,28.38
+2021,11,Branded,2657,226,368.38,8.0,0.61,46.05
+2021,11,Intelligence Playbook,956,32,69.08,1.0,0.46,69.08
+2021,11,Non Branded Applied Marketing,2685,123,148.22,1.0,0.83,148.22
+2021,11,Non Branded Conversion Strategy,934,45,89.18,0.0,0.5,0.0
+2021,11,SME Consideration,2687,394,627.75,37.0,0.63,16.97
+2021,11,Social Responsibility,867,35,60.1,0.0,0.58,0.0
+2021,12,Acquisition Impact,960,23,70.36,4.0,0.33,17.59
+2021,12,Branded,1191,95,321.43,7.4,0.3,43.44
+2021,12,Intelligence Playbook,1452,16,56.71,0.0,0.28,0.0
+2021,12,Non Branded Applied Marketing,1869,45,123.75,6.0,0.36,20.62
+2021,12,Non Branded Conversion Strategy,796,9,24.24,0.0,0.37,0.0
+2021,12,SME Consideration,3515,310,620.77,39.5,0.5,15.72
+2021,12,Social Responsibility,447,18,49.5,0.7,0.36,70.71
+2022,1,Acquisition Impact,911,10,54.64,3.0,0.18,18.21
+2022,1,Branded,1474,92,243.93,6.0,0.38,40.66
+2022,1,HubSpot App - Non-Branded,174,9,14.96,3.0,0.6,4.99
+2022,1,Intelligence Playbook,1231,26,71.03,0.0,0.37,0.0
+2022,1,Non Branded Applied Marketing,4189,74,161.49,14.0,0.46,11.54
+2022,1,Non Branded Conversion Strategy,316,5,27.46,1.0,0.18,27.46
+2022,1,Non Branded HubSpot,144,4,28.45,0.0,0.14,0.0
+2022,1,SME Consideration,8678,285,670.89,38.5,0.42,17.43
+2022,1,Social Responsibility,245,9,13.91,0.0,0.65,0.0
+2022,2,Branded,1832,104,422.95,4.0,0.25,105.74
+2022,2,HubSpot App - Non-Branded,551,27,52.73,3.0,0.51,17.58
+2022,2,Non Branded Applied Marketing,9954,159,517.7,5.0,0.31,103.54
+2022,2,Non Branded HubSpot,1402,36,170.86,2.0,0.21,85.43
+2022,3,Branded,1093,43,296.86,0.0,0.14,0.0
+2022,3,Non Branded Applied Marketing,6034,94,418.71,6.0,0.22,69.78
+2022,3,Non Branded HubSpot,1113,57,186.19,4.0,0.31,46.55
+2022,4,Branded,24,6,2.93,0.0,2.05,0.0
+2022,4,Non Branded Applied Marketing,4474,93,508.57,8.0,0.18,63.57
+2022,4,Non Branded HubSpot,1023,56,217.83,12.6,0.26,17.29
+2022,5,Awareness/Engagement,327,18,31.31,0.0,0.57,0.0
+2022,5,Branded,38,10,1.7,0.0,5.88,0.0
+2022,5,Cloud Report,968,37,85.34,30.0,0.43,2.84
+2022,5,Consideration,365,3,40.12,0.0,0.07,0.0
+2022,5,Non Branded Applied Marketing,3091,85,594.57,15.0,0.14,39.64
+2022,5,Non Branded HubSpot,56,9,25.29,1.0,0.36,25.29
 2022,7,Non Branded HubSpot,2,0,0.0,0.0,0.0,0.0
-2022,8,Non Branded HubSpot,7896,352,716.72,32.0,2.04,22.4
-2022,9,Marketing Inbound Support,449,69,73.74,0.0,1.07,0.0
-2022,9,Non Branded HubSpot,11214,562,959.05,55.0,1.71,17.44
-2022,10,Marketing Inbound,13767,949,879.52,27.85,0.93,31.58
-2022,10,Marketing Inbound Allies,400,20,60.76,4.0,3.04,15.19
-2022,10,Non Branded HubSpot,5391,385,574.71,39.0,1.49,14.74
-2022,11,Marketing Inbound,21712,576,1434.65,76.0,2.49,18.88
-2022,11,Marketing Inbound Allies,3772,161,594.4,3.0,3.69,198.13
-2022,11,Marketing Inbound Partnerships,44644,924,431.65,34.0,0.47,12.7
-2022,11,Non Branded HubSpot,1669,186,245.27,20.0,1.32,12.26
-2022,12,Marketing Inbound,9175,233,608.1,21.0,2.61,28.96
-2022,12,Marketing Inbound Partnerships,11147,139,530.05,12.0,3.81,44.17
-2022,12,Non Branded HubSpot,2355,282,479.02,19.0,1.7,25.21
+2022,8,Non Branded HubSpot,7896,352,716.72,32.0,0.49,22.4
+2022,9,Marketing Inbound Support,449,69,73.74,0.0,0.94,0.0
+2022,9,Non Branded HubSpot,11214,562,959.05,55.0,0.59,17.44
+2022,10,Marketing Inbound,13767,949,879.52,27.85,1.08,31.58
+2022,10,Marketing Inbound Allies,400,20,60.76,4.0,0.33,15.19
+2022,10,Non Branded HubSpot,5391,385,574.71,39.0,0.67,14.74
+2022,11,Marketing Inbound,21712,576,1434.65,76.0,0.4,18.88
+2022,11,Marketing Inbound Allies,3772,161,594.4,3.0,0.27,198.13
+2022,11,Marketing Inbound Partnerships,44644,924,431.65,34.0,2.14,12.7
+2022,11,Non Branded HubSpot,1669,186,245.27,20.0,0.76,12.26
+2022,12,Marketing Inbound,9175,233,608.1,21.0,0.38,28.96
+2022,12,Marketing Inbound Partnerships,11147,139,530.05,12.0,0.26,44.17
+2022,12,Non Branded HubSpot,2355,282,479.02,19.0,0.59,25.21
 2023,1,Acquisition,1,0,0.0,0.0,0.0,0.0
 2023,1,Applied Marketing,1,0,0.0,0.0,0.0,0.0
-2023,1,Marketing Inbound Partnerships,3689,49,148.25,7.0,3.03,21.18
-2023,1,Non Branded HubSpot,73,8,15.68,0.0,1.96,0.0
+2023,1,Marketing Inbound Partnerships,3689,49,148.25,7.0,0.33,21.18
+2023,1,Non Branded HubSpot,73,8,15.68,0.0,0.51,0.0
 2023,1,Reporting Tools,1,0,0.0,0.0,0.0,0.0
